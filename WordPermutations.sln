@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPermutations", "WordPermutations\WordPermutations.csproj", "{121702F2-C308-4921-A988-E8B19EF48105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121702F2-C308-4921-A988-E8B19EF48105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121702F2-C308-4921-A988-E8B19EF48105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121702F2-C308-4921-A988-E8B19EF48105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121702F2-C308-4921-A988-E8B19EF48105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFD9133-1CFA-4B6D-A4E3-E0731231FF4D}
+	EndGlobalSection
+EndGlobal
